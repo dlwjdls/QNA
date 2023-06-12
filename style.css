@@ -1,0 +1,15 @@
+.answer {
+  display: none;
+}
+
+/* FASHION COMPANY의 글씨 색을 핫핑크색으로 변경 */
+h1 {
+  color: hotpink;
+}
+
+/* 구분선 스타일 */
+hr {
+  border: none;
+  border-top: 1px solid #ccc;
+  margin: 20px 0;
+}
