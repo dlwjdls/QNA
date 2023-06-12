@@ -1,0 +1,10 @@
+.answer {
+  display: none;
+}
+
+.divider {
+  border: none;
+  height: 1px;
+  background-color: #000;
+  margin: 10px 0;
+}
